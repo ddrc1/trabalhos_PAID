@@ -21,3 +21,5 @@
  - Juntar imagens separadas de forma que fique parecido com o que o google images faz. Dataset utilizado: https://www.kaggle.com/arnaud58/landscape-pictures
 ## Trabalho final 2
  - Reproduzir um video em tempo real, transformando os frames. Utilizar um overlay de forma parecida com o que o instagram faz, acompanhando o rosto do usuário
+## Trabalho final 3
+ - Modelar um problema de denoising (retirar ruidos de imagens. Dataset utilizado: https://www.kaggle.com/arnaud58/landscape-pictures
